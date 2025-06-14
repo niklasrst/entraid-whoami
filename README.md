@@ -2,6 +2,8 @@
 
 This repo contains a script to query user details, similar to the legacy `whoami` command from Entra ID.
 
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/niklasrst/entraid-whoami/total)
+
 ## How to use it?
 Use this command to run the script:
 ```powershell
